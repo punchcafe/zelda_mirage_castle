@@ -17,6 +17,24 @@
             "Whenever you are lost as to where to go next, always check your map!"
         ],
         "status": "initial"
+    },
+    {
+        "id": 2,
+        "pages": [9],
+        "section": "Measuring days passed",
+        "diagrams": [1],
+        "body": [
+            "This game has a time limit.",
+            "You will have ten days to complete your quest.",
+            "Keep track of the day/nights passed using the check sheet on page 278.",
+            "Each square in the check sheet represents an entire day (one day-night cycle). Filling in a square means that day has passed.",
+            "Beware! After 10 days have passed, the doors of the Mirage Castle will be sealed shut, and Link and Zelda will be unable to finish their quest.",
+            "Scattered along the way, Link and Zelda may encounter warp zones.",
+            "These stranges places can send them forward or backwards in time.",
+            "If the pair is sent forward in time, you must fill in that many days in your check sheet.",
+            "However, if the pair go back in time, you will add those new days to your check sheet as extra boxes"
+        ],
+        "status": "initial"
     }
 
 ]
