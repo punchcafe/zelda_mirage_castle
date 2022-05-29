@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "pages": [8],
+        "section": "Alternate between playing Link and Zelda",
+        "body": [
+            "This gamebook features a new style of play, where you control not one, but two characters, Link and Zelda.",
+            "As day turns to night, and night to day, you will switch between playing as Link (day) and Zelda (night).",
+            "As long as they are apart, neither one can find the MIRAGE CASTLE.",
+            "TODO",
+            "Unfortunately for Link and Zelda, the object of their quest is a *drifting* castle, with no fixed location.",
+            "Where it will appear next is unknown.",
+            "Without gathering as much information as possible, the pair will not be able to embark on their search.",
+            "Knowledgeable old men and women can be found littered across the land in tree hollows and caves.",
+            "Seeking them out will surely prove valuable.",
+            "The map on page 270 is full of great hints.",
+            "Whenever you are lost as to where to go next, always check your map!"
+        ],
+        "status": "initial"
+    }
+
+]
