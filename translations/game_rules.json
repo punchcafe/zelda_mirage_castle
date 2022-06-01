@@ -35,6 +35,19 @@
             "However, if the pair go back in time, you will add those new days to your check sheet as extra boxes"
         ],
         "status": "initial"
+    },
+    {
+        "id": 2,
+        "pages": [9, 10],
+        "section": "Item checks",
+        "diagrams": [2],
+        "body": [
+            "Throughout this book, Link and Zelda will pick up a variety of items.",
+            "From defeating enemies to purchasing it from a merchant, there are a number of ways the pair will get new items during their quest.",
+            "Please note, however, that these items are not shared between the two, and whatever Zelda picks up may only be used by Zelda, and likewise for Link.",
+            
+        ],
+        "status": "initial"
     }
 
 ]
