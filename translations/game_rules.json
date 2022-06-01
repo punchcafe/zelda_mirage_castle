@@ -37,7 +37,7 @@
         "status": "initial"
     },
     {
-        "id": 2,
+        "id": 3,
         "pages": [9, 10],
         "section": "Item checks",
         "diagrams": [2],
@@ -45,7 +45,17 @@
             "Throughout this book, Link and Zelda will pick up a variety of items.",
             "From defeating enemies to purchasing it from a merchant, there are a number of ways the pair will get new items during their quest.",
             "Please note, however, that these items are not shared between the two, and whatever Zelda picks up may only be used by Zelda, and likewise for Link.",
-            
+            "Ensure each character's picked up items are separated into their own distinct parts.",
+            "Zelda and Link picking up duplicate items between them is fine.",
+            "The more items you pick up, the more things you'll have at your disposal, so it's better to pick up whatever you can find.",
+            "Occasionally throughout your adventure, you may pass through the same opportunity to get an item several times.",
+            "Once you have gotten this item once, you cannot get it again in further visits to the same area/encounter.",
+            "In those cases, please ignore it and continue.",
+            "You can find an item checksheet on page 277, for Link and Zelda.",
+            "Whenever you get a new item, please write it in to the corresponding check sheet (Diagram 2).",
+            "The price an item is being sold at by a particular merchant may be different at another merchant.",
+            "You should always try and seek out the lowest price, however there are times when your immediate need for the item will outweigh finding the best bargain.",
+            "As long as you have enough rupees, you can buy as many of an item as you want all at once."
         ],
         "status": "initial"
     }
