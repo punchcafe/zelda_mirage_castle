@@ -58,6 +58,29 @@
             "As long as you have enough rupees, you can buy as many of an item as you want all at once."
         ],
         "status": "initial"
+    },
+    {
+        "id": 4,
+        "pages": [10, 11],
+        "section": "Rupee checks",
+        "diagrams": [3],
+        "body": [
+            "Ruppees are the currency people use in Hyrule.",
+            "At the start of their quests, Link and Zelda set out with 20 rupees each.",
+            "Whenever you buy any items from a merchant or store, subtract that amount from your rupee total.",
+            "Defeated enemies may drop rupees. If they do, you can add the dropped value to your rupee total.",
+            "You can track your Rupee total on page 278."
+        ],
+        "status": "initial"
+    },
+    {
+        "id": 5,
+        "pages": [11, 12],
+        "section": "Life Energy checks",
+        "diagrams": [4],
+        "body": [
+        ],
+        "status": "initial"
     }
 
 ]
