@@ -79,6 +79,20 @@
         "section": "Life Energy checks",
         "diagrams": [4],
         "body": [
+            "Link and Zelda's LIFE ENERGY is represented by their number of hearts (HEART TOTAL).",
+            "Your HEART TOTAL will change over the course of battling in hyrule.",
+            "Defeating an opponent will gain you hearts, while being beaten will lose you hearts.",
+            "You can even lose hearts when you flee from battle.",
+            "Once your hearts drop to zero, that means our hero has died, and unfortunately the game is over.",
+            "However, if during your travels you stopped by the Fairy Fountain, then FANNY will",
+            "use the mysterious power of the fountain to restore you to full hearts.",
+            "There's a limit to how many hearts you can have.",
+            "You will start out with 5 hearts.",
+            "Hidden away in places on your journey you may find a LIFE TOOL or two. Whenver you find one of these",
+            "tools, you will recover a number of hearts. Unlike the FAMICON version of the game, where you can only", 
+            "restore one heart at a time, in this game each LIFE TOOL will recover 4 hearts.",
+            "Your HEART TOTAL will be constantly changing throughout your adventure, so be sure to keep it well documented",
+            "on the LIFE ENERGY CHECK SHEET (P 279)"
         ],
         "status": "initial"
     }
