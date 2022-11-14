@@ -87,14 +87,33 @@
             "However, if during your travels you stopped by the Fairy Fountain, then FANNY will",
             "use the mysterious power of the fountain to restore you to full hearts.",
             "There's a limit to how many hearts you can have.",
-            "You will start out with 5 hearts.",
+            "You will start out with 5 hearts (this is also your limit).",
             "Hidden away in places on your journey you may find a LIFE TOOL or two. Whenver you find one of these",
-            "tools, you will recover a number of hearts. Unlike the FAMICON version of the game, where you can only", 
-            "restore one heart at a time, in this game each LIFE TOOL will recover 4 hearts.",
+            "tools, (CHECK) your maximum number of hearts increases. Unlike the FAMICON version of the game, where you can only", 
+            "increse by one heart at a time, in this game each LIFE TOOL will increase your max hearts by 4.",
             "Your HEART TOTAL will be constantly changing throughout your adventure, so be sure to keep it well documented",
             "on the LIFE ENERGY CHECK SHEET (P 279)"
         ],
         "status": "initial"
+    },
+    {
+        "id": 6,
+        "pages": [12, 13],
+        "section": "Bomb checks",
+        "diagrams": [5],
+        "body": [
+            "Of the various items Link and Zelda can pick up, a particular useful tool is the BOMB",
+            "While it may seem like a simplistic weapon, this handy item can be used to defeat enemies,",
+            "break down dead-ends and open new paths.",
+            "Bombs work much the same way as hearts. Bombs also have an upper limit to how many you can carry.",
+            "when you start out, this limit is five. As with heart containers, this number goes up by 4 every",
+            "time you find a LIFE TOOL.",
+            "For example, say you are just starting out. You have used two bombs, and have three remaining.",
+            "You find five bombs on the side of the road, but since your maximum is five, you can only pick up two.",
+            "Now suppose that you had picked up one LIFE TOOL before encountering the bombs on the side of the road.",
+            "Your maximum would now be nine, so you could comfortably pick up all five bombs you found.",
+            "Make sure you always keep your BOMB CHECK SHEET (on page 278) up to date throughout your adventure."
+        ]
     }
 
 ]
