@@ -155,7 +155,8 @@
             "The time for them to combine their power and work as one has come!",
             "Set your sights on the enemy fortress, summon your courage and set fourth!",
             "I wish you the best of luck in battle!"
-        ]
+        ],
+        "status": "initial"
     }
 
 ]

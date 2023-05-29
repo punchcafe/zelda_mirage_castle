@@ -1,0 +1,38 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/game.rule.entry.json",
+    "title": "Game Rule Entry",
+    "description": "A Game Rule Entry",
+    "type": "object",
+    "properties": {
+        "id": {
+          "description": "Section ID",
+          "type": "string"
+        },
+        "pages": {
+            "description": "Page numbers this section spans",
+            "type": "array",
+            "items": {
+              "type": "integer"
+            },
+            "uniqueItems": true
+          },
+        "section": {
+            "description": "Section name",
+            "type": "string"
+          },
+        "body": {
+            "description": "Page numbers this section spans",
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+        ,
+        "status": {
+            "description": "Translation status of this section",
+            "type": "string"
+          }
+      },
+      "required": [ "id", "pages", "section", "body", "status"]
+  }
+}
