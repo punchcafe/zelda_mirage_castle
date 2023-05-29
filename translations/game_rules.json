@@ -114,6 +114,48 @@
             "Your maximum would now be nine, so you could comfortably pick up all five bombs you found.",
             "Make sure you always keep your BOMB CHECK SHEET (on page 278) up to date throughout your adventure."
         ]
+    },
+    {
+        "id": 7,
+        "pages": [14],
+        "section": "Step memo",
+        "diagrams": [],
+        "body": [
+            "While playing you'll doubtless encounter interruptions which make you put down this book and stop playing.",
+            "It can be easy to loose track of where you are in Hyrule when these interruptions occur.",
+            "In order to avoid this, please use the step memo provided on page 279.",
+            "You can use it to trace each movement you take with Link or Zelda, and keep track of their whereabouts in Hyrule.",
+             "Using different color pencils for Link and Zelda make it easy to distinguish which route is which!"
+        ],
+        "status": "initial"
+    },
+    {
+        "id": 8,
+        "pages": [14, 15, 16],
+        "section": "How to battle",
+        "body": [
+            "Throughout the course of the game, Link and Zelda will come face to face with a number of fearsome enemies.",
+            "When they do, you'll immediately launched into battle, however not all battles are the same!",
+            "Battles come in three types: Battling with items, Battling with Battle Points, or a combination of both.",
+            "Battling using battle points is different to the rules games so far, so make sure to carefully read the following description!",
+            "For Battle Point type battles, the end of the sentence of each section will have a letter between A - O.",
+            "This letter denotes the Battle Symbol for this battle, and will be used later to determine who wins.",
+            "You'll notice that for battle sections, you'll see Links name  followed by a pair of empty brackets ( ).", 
+            "You'll see the same thing for the enemy in this battle, with their name followed by brackets.",
+            "The next step is to choose a number between 1 - 5 to put in each of the brackets. The numbers can be the same or different.",
+            "These numbers are Link and the enemies Battle Points. Once you've assigned both, go to the Battle Symbol Table on page 276.",
+            "Each row on the Battle Symbol table has a 'Base Battle Point' for both Link and the enemy he is fighting.",
+            "Add these 'Base Battle Points' to Battle Points you selected earlier to determine the total Battle Points for Link and his opponent.",
+            "Whichever total is closest to 9 points is the winner. However, if the total is OVER 9 points, that character LOSES.",
+            "In the cases of a draw, or that both parites go over the 9 point limit, increment the battle symbol by one", 
+            "(A -> B, B -> C, O->A...) and repeat until you have a winner.",
+            "",
+            "Now, it's finally time for your adventure in Hyrule to begin!",
+            "Link and Zelda have finished preparing their Swords, Bows and 5 Bombs each, and are departing on their Journey!",
+            "The time for them to combine their power and work as one has come!",
+            "Set your sights on the enemy fortress, summon your courage and set fourth!",
+            "I wish you the best of luck in battle!"
+        ]
     }
 
 ]
